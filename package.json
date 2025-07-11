@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-bot-shift",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Otomatis untuk Shift Kerja",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-cron": "^3.0.2"
+  }
+}
